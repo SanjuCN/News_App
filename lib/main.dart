@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:newsapp1/contoller/homescreencontroller.dart';
-import 'package:newsapp1/view/home.dart';
+import 'package:newsapp1/view/home_screen/home.dart';
 import 'package:provider/provider.dart';
 
 void main() {
